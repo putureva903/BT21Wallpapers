@@ -19,7 +19,7 @@
       "link_redirect": "https://"
     }
   ],
-  "Morex":
+  "More":
   [
     {
       "id":1,
@@ -32,10 +32,16 @@
       "title":"Galaxy Wolf Wallpapers 4K",
       "image":"https://play-lh.googleusercontent.com/UQDpPpXDquuHXSJjNYRjwGKyxdvf4EPnUoGlMG_BEAONnPCWlhyzbU0-ZRrncYY3lWld=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.GalaxyWolfWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":3,
+      "title":"Unicorn Wallpapers 4K [UHD]",
+      "image":"https://play-lh.googleusercontent.com/DGlq6Du63OcrSZ326qNwg5EecO4PiiMppIeiGC2VW_syZ_3HX0eziqJl8QGTj15PG8M=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.UnicornWallpapers&hl=in&gl=US"
     }
   ],
 
-  "Categoriesx": [
+  "Categories": [
     {
       "id": 1,
       "name_category": "BT 21",
@@ -45,7 +51,7 @@
 	
   ],
 
-  "Datax":
+  "Data":
   [
     {
       "id":1,
